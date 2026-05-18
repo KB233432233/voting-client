@@ -1,6 +1,6 @@
 import './App.css'
 import { Route, Routes, BrowserRouter, Navigate } from 'react-router'
-import Home from './pages/Home'
+import Home from './Pages/Home'
 import CreatePoll from './Pages/CreatePoll'
 import Layout from './Components/Layout'
 import PollList from './Pages/PollList'
