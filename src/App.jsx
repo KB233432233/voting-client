@@ -17,7 +17,7 @@ import OrgRegistration from './Pages/OrgRegistration'
 import OrgDashboard from './Pages/OrgDashboard/OrgDashboard'
 import AuditorDashboard from './Pages/Auditor/AuditorDashboard'
 import ProtectedRoute from './Components/ProtectedRoute'
-import UnAuthorized from './Pages/UnAuthorized'
+import UnAuthorized from './Pages/Unauthorized'
 
 function App() {
 
